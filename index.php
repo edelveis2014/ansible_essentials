@@ -14,7 +14,7 @@
 
 <p> App backend <?=gethostname()?> </p>
 
-<img src="https://www.shutterstock.com/search/changing+nature/408/287" />
+<img src="https://loremflickr.com/320/240" />
 
 </body>
 
